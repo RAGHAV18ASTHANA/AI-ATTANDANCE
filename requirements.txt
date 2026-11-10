@@ -16,3 +16,8 @@ segno
 pillow 
 
 streamlit
+
+librosa
+resemblyzer
+# Provides a Windows wheel for Resemblyzer's webrtcvad dependency.
+webrtcvad-wheels

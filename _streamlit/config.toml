@@ -1,0 +1,7 @@
+[server]
+# Rerun the app automatically whenever a source file is saved.
+runOnSave = true
+
+# Polling is reliable on Windows, including editors/filesystems where native
+# file-change notifications are not delivered consistently.
+fileWatcherType = "poll"
