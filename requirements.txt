@@ -5,7 +5,7 @@ scikit-learn
 dlib-bin
 
 git+https://github.com/ageitgey/face_recognition_models
-setuptools<70.0.0
+setuptools>=77.0.3,<81.0.0
 
 
 supabase
@@ -19,5 +19,7 @@ streamlit
 
 librosa
 resemblyzer
+torch
+typing
 # Provides a Windows wheel for Resemblyzer's webrtcvad dependency.
 webrtcvad-wheels
